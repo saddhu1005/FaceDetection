@@ -5,3 +5,6 @@ The training of the cascade-classifiers are done by taking 2 types of data, one 
 By taking this two class of data we train our classifiers to create vector of features and merge them to create the cascades ('xml' files).
 
 This model can both work on a video source feed or real time video feed from webcam of a computer. We take a frame at a time from the video feed and process it with the Haar-cascade classifiers to detect the boundaries of face and eyes of a human being.
+
+## Test Run
+![test_image](https://github.com/saddhu1005/FaceDetection/blob/master/outputs/test_image.png)
